@@ -5,7 +5,7 @@ This would be my second draft of libft. The first one used conventional methods,
 while the second used less conventional methods for the purpose of performance.
 
 ## How better you ask?
-Below is a picture of the performance difference I was able to get. This is relative to my old_libft whose source code
+Below are pictures of the performance difference I was able to get. This is relative to my old_libft whose source code
 can be found in the folder old_libft.
 
 ## But is it safe?
